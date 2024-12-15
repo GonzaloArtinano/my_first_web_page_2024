@@ -8,3 +8,4 @@ This is the repository of the activity III.
 - Added footer and header.
 - Added images for content section.
 - Added content and menu.
+- Changed the location of index.html.
